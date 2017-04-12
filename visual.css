@@ -1,0 +1,120 @@
+body {
+     font-size: 20px;
+     font-color: black;
+     background-color:
+     margin-bottom: 200px;
+     
+
+}
+
+p {
+   font-style: times;
+   font-size: 18px;
+   color: black;
+  
+
+}
+
+
+li {
+    font-size: 40px;
+    font-style: times;
+    display:inline-block;
+    padding-right: 70px;
+    border: 2px black;
+    
+    
+}
+
+h1 {
+    font-size: 30px;
+    font color: black;
+
+    
+
+}
+
+ul {
+    text-align: center;
+
+
+}
+
+            .photo {
+
+          		float: left;
+              width: 300px;
+              height: 220px;
+              background-color: white;
+              padding: 50px;
+              margin-bottom:0px;
+
+                
+
+
+          		/*border-width: 10px;
+          		border-style: dotted;
+          		border-color: lightblue;*/
+
+
+
+           }
+            
+
+            .travel {
+              font-style: times;
+              float: left;
+               width: 100%;
+               padding: 50px;
+               
+               
+
+            }
+           
+
+
+           img {
+           	
+            height: 250px;
+            width:  200;
+
+             }
+
+             
+             .fixed-block {
+                       
+                       position: fixed;
+                       top: 0px;
+                       right: 0px;
+
+
+
+             }
+
+            
+
+            .sun {
+
+              float: left;
+              width: 200px;
+            height: 300px;
+              background-color: white;
+              padding: 50px;
+              border: 10px solid-black; 
+
+              /*border-width: 10px;
+              border-style: dotted;
+              border-color: lightblue;*/
+ 
+             }
+
+
+             
+
+           
+               
+
+
+
+           
+
