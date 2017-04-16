@@ -1,9 +1,9 @@
 body {
-     font-size: 20px;
+     font-size: 15px;
      font-color: black;
-     background-color:
-     margin-bottom: 200px;
-     
+     background-color: beige;
+     margin-bottom: 0px;
+     font-style: verdana;
 
 }
 
@@ -17,7 +17,7 @@ p {
 
 
 li {
-    font-size: 40px;
+    font-size: 20px;
     font-style: times;
     display:inline-block;
     padding-right: 70px;
@@ -27,7 +27,7 @@ li {
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 20px;
     font color: black;
 
     
@@ -43,11 +43,11 @@ ul {
             .photo {
 
           		float: left;
-              width: 300px;
-              height: 220px;
-              background-color: white;
+              width: 200px;
+              height: 200px;
+              background-color: beige;
               padding: 50px;
-              margin-bottom:0px;
+              margin-bottom:50px;
 
                 
 
@@ -67,16 +67,20 @@ ul {
                width: 100%;
                padding: 50px;
                
-               
+               }
 
-            }
-           
+          .mini {
+             width: 250px;
 
 
-           img {
+
+               }
+
+          
+          img {
            	
-            height: 250px;
-            width:  200;
+            height: 350px;
+            width:  300px;
 
              }
 
